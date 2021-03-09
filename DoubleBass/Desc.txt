@@ -1,0 +1,1 @@
+Extracted using Polyphony SFZ->SF2, and then MuseScore, simple chromatic scale, splitted and mp3 encoded with vox
