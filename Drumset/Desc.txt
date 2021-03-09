@@ -1,0 +1,9 @@
+From musescore soundfont Jazz
+Used polyphone to find the filenames.
+36 C2 769_Std Kick 7		Std Kick 4
+37 C#2 548_Rim Tap		Misc. Percussion	Attn 4db
+38 D2 793_Snr 2-1			Std Snare 4		
+40 E2 791_Snr 2-2			Std Snare 4
+42 F#2 640_Hi-Hat Closed		Hi Hats		Attn 10db
+49 Db3 813_Crsh 1			Crashes & rides	Attn 5.2db
+51 Eb3 809_Ride1			Crashes & rides	Attn 6db
