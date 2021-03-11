@@ -2,7 +2,6 @@
 
 //module.exports = LowpassCombFilter
 
-console.log('asd')
 function LowpassCombFilter (context) {
   var node = context.createDelay(1)
 
@@ -28,7 +27,6 @@ function LowpassCombFilter (context) {
 
   return node
 }
-console.log('234')
 // adapted from: https://github.com/TONEnoTONE/Tone.js/blob/master/Tone/effect/Freeverb.js
 
 var combFilterTunings = [1557 / 44100, 1617 / 44100, 1491 / 44100, 1422 / 44100, 1277 / 44100, 1356 / 44100, 1188 / 44100, 1116 / 44100]
